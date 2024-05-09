@@ -1,0 +1,19 @@
+# Cabal build artifacts
+dist-newstyle/
+
+# GHC artifacts
+*.hi
+*.o
+
+# Stack artifacts
+.stack-work/
+
+# Cabal sandbox
+.cabal-sandbox/
+
+# Editor/IDE artifacts
+.vscode/
+.idea/
+
+# Dependency directories
+vendor/
